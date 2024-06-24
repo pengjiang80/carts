@@ -13,7 +13,7 @@ Checkout the API Spec [here](http://microservices-demo.github.io/api/index?url=h
 
 ## Java
 
-`mvn -DskipTests package`
+`mvn -DskipTests package 2`
 
 ## Docker
 
